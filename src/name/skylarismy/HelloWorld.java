@@ -15,9 +15,9 @@ public class HelloWorld {
         JOptionPane.showMessageDialog(null, "Hello world");
     }
 
-     public static int getRandomNumber() {
-         return 4; // Chosen by fair dice roll.
-                   // Guaranteed to be random.
-     }
+    public static int getRandomNumber() {
+        return 4; // Chosen by fair dice roll.
+                  // Guaranteed to be random.
+    }
 
 }
